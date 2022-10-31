@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("我是傻逼");
         System.out.println("我是傻逼");
         System.out.println("在hot_fix上面");
+        System.out.println("master分支也已经修改");
     }
 }
