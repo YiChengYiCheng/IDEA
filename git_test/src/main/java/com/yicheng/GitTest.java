@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master分支也已经修改");
         System.out.println("hot_fix已经修改");
         System.out.println("Git_Hub 添加测试");
+        System.out.println("Git_Hub上面添加了修改");
     }
 }
